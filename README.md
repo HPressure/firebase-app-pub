@@ -1,16 +1,30 @@
-# flutter_app
+### About
 
-A new Flutter application.
+User flow can be described like this:
++ The user starts on the homepage
++ From the homepage user choose what kind of service he would like to request
++ If user is not authorized then he will be promted with authorization dialog
++ User types in his number and verification code that he will get shortly after
++ After succesful authorization user proceed to service form and fill all necessary information
++ User confirms request and waits for proccess to complete
++ After that he gets redirected to homepage
++ User can check either map location of the bussiness on map tab or his request on request tab 
 
-## Getting Started
+This app gives an idea of how easy you can build your own cross-platform application with working SMS authorization, maps and email integration, by using **Flutter** framework and services such as **Firebase**, **Google Maps** and **Sendgrid**.
 
-This project is a starting point for a Flutter application.
+###Examples
 
-A few resources to get you started if this is your first Flutter project:
+Authorization procces
+![Firebase App Pub](read-media/auth.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Leaving a request
+![Firebase App Pub](read-media/ticket1.gif)
+![Firebase App Pub](read-media/ticket2.gif)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Map overview
+![Firebase App Pub](read-media/map.gif)
+
+Network check
+![Firebase App Pub](read-media/network_check1.gif)
+![Firebase App Pub](read-media/network_check2.gif)
+####Inline code
