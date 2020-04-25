@@ -8,7 +8,7 @@ User flow can be described like this:
 + After succesful authorization user proceed to service form and fill all necessary information
 + User confirms request and waits for proccess to complete
 + After that he gets redirected to homepage
-+ User can check either map location of the bussiness on map tab or his request on request tab 
++ User can check either map location of the business on map tab or his request on request tab 
 
 This app gives an idea of how easy you can build your own cross-platform application with working SMS authorization, maps and email integration, by using **Flutter** framework and services such as **Firebase**, **Google Maps** and **Sendgrid**.
 
