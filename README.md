@@ -12,19 +12,25 @@ User flow can be described like this:
 
 This app gives an idea of how easy you can build your own cross-platform application with working SMS authorization, maps and email integration, by using **Flutter** framework and services such as **Firebase**, **Google Maps** and **Sendgrid**.
 
-###Examples
+### Examples
 
 Authorization procces
+
 ![Firebase App Pub](read-media/auth.gif)
 
 Leaving a request
+
 ![Firebase App Pub](read-media/ticket1.gif)
 ![Firebase App Pub](read-media/ticket2.gif)
 
+Request logs tab
+![Firebase App Pub](read-media/saved_tickets.gif)
+
 Map overview
+
 ![Firebase App Pub](read-media/map.gif)
 
 Network check
-![Firebase App Pub](read-media/network_check1.gif)
+
+![Firebase App Pub](read-media/network_check.gif)
 ![Firebase App Pub](read-media/network_check2.gif)
-####Inline code
