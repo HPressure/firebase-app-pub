@@ -24,6 +24,7 @@ Leaving a request
 ![Firebase App Pub](read-media/ticket2.gif)
 
 Request logs tab
+
 ![Firebase App Pub](read-media/saved_tickets.gif)
 
 Map overview
