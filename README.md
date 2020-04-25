@@ -14,7 +14,7 @@ This app gives an idea of how easy you can build your own cross-platform applica
 
 ### Examples
 
-Authorization procces
+Authorization process
 
 ![Firebase App Pub](read-media/auth.gif)
 
@@ -23,7 +23,7 @@ Leaving a request
 ![Firebase App Pub](read-media/ticket1.gif)
 ![Firebase App Pub](read-media/ticket2.gif)
 
-Request logs tab
+Request log tab
 
 ![Firebase App Pub](read-media/saved_tickets.gif)
 
